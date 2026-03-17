@@ -9,7 +9,7 @@ description: "台灣生活方式融合傳統與現代，創造獨特的島嶼文
 
 台灣的生活是一首關於便利與溫情的協奏曲。當便利商店的密度達到全球第二，當機車穿梭在巷弄間成為最熟悉的風景，當全民健保讓每個人都能享有醫療保障時，台灣人創造出了一種獨特的生活方式：現代而不失溫度，便利而不失人情。這種生活哲學讓台灣成為許多國際遊客心中的「最適宜居住」之地。
 
-![台北市街景](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sec._1%2C_Hankou_Street%2C_Zhongzheng_District%2C_Taipei_City_%28Taiwan%29.JPG)
+![台北市街景](/images/wiki/1bccb5c02c18.jpg)
 *圖片來源：[Malcolm Koo](https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 ## 為什麼重要
@@ -64,10 +64,10 @@ description: "台灣生活方式融合傳統與現代，創造獨特的島嶼文
 - **夜市密度驚人**：全台登記有案夜市超過300個，年營業額超過600億台幣，士林夜市年訪客數達1,200萬人次
 - **外食比例全球最高**：台灣民眾外食比例達77%，居世界之冠，平均每2.3天就會光顧便利商店
 
-![台北市街景](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sec._1%2C_Hankou_Street%2C_Zhongzheng_District%2C_Taipei_City_%28Taiwan%29.JPG)
+![台北市街景](/images/wiki/1bccb5c02c18.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG) | CC BY 4.0 | 攝影者：Malcolm Koo*
 
-![台灣便利商店](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg/1280px-7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg)
+![台灣便利商店](/images/wiki/18dae3226cf0.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg) | CC BY-SA 4.0*
 
 ## 相關主題

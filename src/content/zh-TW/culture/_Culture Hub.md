@@ -9,7 +9,7 @@ description: "台灣文化的多元性不僅是歷史發展的結果，更是理
 
 如果文化是一條河流，那麼台灣就是眾多支流匯聚的河口。在這裡，來自不同源頭的水流並沒有相互排斥，而是交織成一片豐饒的三角洲。原住民的古老吟唱與現代樂團的搖滾樂聲在同一個夜晚響起，傳統廟宇的香火與咖啡店的文青氛圍在同一條街上共存，這種奇妙的並置不是偶然，而是台灣文化最深層的本質。
 
-![天水宮廟宇建築](https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%A4%A9%E6%B0%B4%E5%AE%AB_Tianshui_Temple_-_panoramio.jpg)
+![天水宮廟宇建築](/images/wiki/3e5110936562.jpg)
 *圖片來源：[lienyuan lee](https://commons.wikimedia.org/wiki/File:天水宫_Tianshui_Temple_-_panoramio.jpg) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
 
 ## 五種血液，一個身體
@@ -28,7 +28,7 @@ description: "台灣文化的多元性不僅是歷史發展的結果，更是理
 
 新住民語言如異國的香料般新鮮，越南語、印尼語、泰語、緬甸語等七種語言已經納入國民教育的課程，這些來自南洋的聲音正在改寫台灣的文化地圖。這些語言不是各自為政的獨奏，而是相互呼應的合奏，創造出屬於台灣的獨特聲響。
 
-![天水宮廟宇建築](https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%A4%A9%E6%B0%B4%E5%AE%AE_Tianshui_Temple_-_panoramio.jpg)
+![天水宮廟宇建築](/images/wiki/c27c8a071551.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:天水宮_Tianshui_Temple_-_panoramio.jpg) | CC BY 3.0 | 攝影者：lienyuan lee*
 
 ## 信仰的百花齊放
@@ -76,7 +76,7 @@ description: "台灣文化的多元性不僅是歷史發展的結果，更是理
 - **傳統工藝傳承**：台灣擁有超過200位「人間國寶」級文化資產保存者，涵蓋布袋戲、歌仔戲、傳統工藝等各領域
 - **多元成家典範**：2019年台灣成為亞洲第一個同性婚姻合法化的國家地區，展現文化包容與進步價值
 
-![台灣媽祖遶境文化](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2021大甲媽祖遶境_02.jpg/1280px-2021大甲媽祖遶境_02.jpg)
+![台灣媽祖遶境文化](/images/wiki/f04323aed8cc.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021大甲媽祖遶境_02.jpg) | CC BY-SA 4.0 | 攝影者：Outlookxp*
 
 ---

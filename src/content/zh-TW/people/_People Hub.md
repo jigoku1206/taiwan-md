@@ -9,7 +9,7 @@ description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，
 
 台灣雖是小島，卻孕育了在世界舞台發光發熱的巨星們。從奧斯卡頒獎台上的李安，到矽谷傳奇的張忠謀，從國際舞台上的雲門舞者，到總統府裡的女性領導者，台灣人用才華與毅力在全球各個領域寫下不朽傳奇。他們的成功不僅是個人成就，更是台灣精神的最佳體現：在困境中堅韌，在機會中創新，在世界中發聲。
 
-![蔡英文總統](https://upload.wikimedia.org/wikipedia/commons/2/2f/蔡英文官方元首肖像照.jpg)
+![蔡英文總統](/images/wiki/b3f3be4fb2b6.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:蔡英文官方元首肖像照.jpg) | 公共領域 | 中華民國總統府*
 
 ## 為什麼重要
@@ -41,7 +41,7 @@ description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，
 - 🔢 **科技產業貢獻**：張忠謀創立的台積電市值超過 5,000 億美元，相當於台灣 GDP，一家公司就影響全球半導體供應鏈
 - 🔢 **國際榮譽紀錄**：台灣人在國際各大獎項屢創佳績：李安 2 座奧斯卡、侯孝賢威尼斯金獅獎、戴資穎世界球后 214 週，平均每年都有台灣人在國際舞台獲得重要榮譽
 
-![李安導演](https://upload.wikimedia.org/wikipedia/commons/4/42/Ang_Lee_2016.jpg)
+![李安導演](/images/wiki/c1deab8511ba.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_2016.jpg) | CC BY 2.0 | 攝影者：Gage Skidmore*
 
 ## 延伸閱讀

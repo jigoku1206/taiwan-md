@@ -1,0 +1,9 @@
+https://upload.wikimedia.org/wikipedia/commons/0/02/Tsmc_factory_hsinchu.JPG → /images/wiki/0d3de5cc110d.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%A4%A9%E6%B0%B4%E5%AE%AB_Tianshui_Temple_-_panoramio.jpg → /images/wiki/3e5110936562.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/4d/Variations_of_Taiwanese_tapioca_pearls.JPG → /images/wiki/832519bc626b.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/64/Taipei-fine-arts-museum.jpg → /images/wiki/504ac37bfd07.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/72/Taiwan_location_map.svg → /images/wiki/207c474084bf.svg
+https://upload.wikimedia.org/wikipedia/commons/9/94/Taipei_Taiwan_Presidential-Office-Building-01.jpg → /images/wiki/9c3e53449201.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Sec._1%2C_Hankou_Street%2C_Zhongzheng_District%2C_Taipei_City_%28Taiwan%29.JPG → /images/wiki/1bccb5c02c18.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e9/Formosan_Black_Bear.JPG → /images/wiki/783bf3227078.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TimeForTea_BubbleTea.JPG/480px-TimeForTea_BubbleTea.JPG → /images/wiki/5cce5de10c26.jpg

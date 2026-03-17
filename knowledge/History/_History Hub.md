@@ -9,7 +9,7 @@ description: "理解台灣歷史是理解當代台灣的鑰匙。台灣的政治
 
 在這座島嶼上，歷史並非沈重的負擔，而是流動的血液。從史前文明的考古碎片到總統府前飄揚的旗幟，每一個轉彎處都藏著驚心動魄的故事。台灣的四百年，是一場關於身份尋找的壯闊旅程，也是人類如何在夾縫中創造奇蹟的見證。
 
-![台北總統府](https://upload.wikimedia.org/wikipedia/commons/9/94/Taipei_Taiwan_Presidential-Office-Building-01.jpg)
+![台北總統府](/images/wiki/9c3e53449201.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg) | CC BY-SA 4.0 | 攝影者：CEphoto, Uwe Aranas*
 
 ## 一座島嶼的千年記憶
@@ -48,7 +48,7 @@ description: "理解台灣歷史是理解當代台灣的鑰匙。台灣的政治
 
 今天，當我們談論「台灣人」這個身份時，它不再指向單一的血統或文化傳統，而是指向一種共同的經驗和價值認同。無論你的祖先來自福建泉州、廣東梅縣、湖南湘潭，還是越南河內、印尼雅加達，只要你認同這片土地，願意與島上的人們共同創造未來，你就是台灣人。這種包容性的認同概念，或許是台灣歷史給世界最珍貴的啟示。
 
-![中正紀念堂](https://upload.wikimedia.org/wikipedia/commons/2/24/Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg)
+![中正紀念堂](/images/wiki/aeba97222b07.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | 攝影者：Andreas Krebs*
 
 ## 延伸閱讀

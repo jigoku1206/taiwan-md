@@ -9,7 +9,7 @@ description: "台灣以台積電為核心的半導體產業掌握全球晶圓代
 
 在這座小島上，藏著支撐全球數位文明的秘密。當你滑動手機螢幕時，當你啟動筆記型電腦時，當你沈浸在虛擬實境的世界時，很可能正在使用台灣製造的晶片。從新竹科學園區的無塵室到竹北的研發中心，台灣以「矽島」之姿在全球科技版圖上書寫了一個小國大戰略的傳奇故事。
 
-![台積電新竹廠](https://upload.wikimedia.org/wikipedia/commons/0/02/Tsmc_factory_hsinchu.JPG)
+![台積電新竹廠](/images/wiki/0d3de5cc110d.jpg)
 *圖片來源：[Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / [公有領域](https://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F)*
 
 ## 護國神山的奇蹟
@@ -112,10 +112,10 @@ description: "台灣以台積電為核心的半導體產業掌握全球晶圓代
 - **開源社群活躍度亞洲第一**：g0v零時政府擁有超過1萬名貢獻者，是全球最大的公民科技社群之一
 - **5G基地台密度全球領先**：每平方公里5G基地台數量居世界前三，5G涵蓋率達85%以上
 
-![台積電新竹廠](https://upload.wikimedia.org/wikipedia/commons/0/02/Tsmc_factory_hsinchu.JPG)
+![台積電新竹廠](/images/wiki/0d3de5cc110d.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) | 公有領域 | 攝影者：Arusanov*
 
-![數位政委唐鳳](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Audrey_Tang_2016.jpg/1280px-Audrey_Tang_2016.jpg)
+![數位政委唐鳳](/images/wiki/52c5be9f282c.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Audrey_Tang_2016.jpg) | CC BY 2.0 | 攝影者：TechCrunch*
 
 ---

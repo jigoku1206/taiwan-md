@@ -9,7 +9,7 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 
 如果用聲音來描述台灣，那一定是一首融合了古典與搖滾、傳統與電子、抒情與嘶吼的複調樂章。從淡水河邊的民歌吟唱到小巨蛋的萬人合聲，從地下室Live House的實驗噪音到金曲獎台上的華麗演出，台灣音樂場景展現了驚人的創造活力。這裡不僅是華語流行音樂的重鎮，更是亞洲音樂文化的創新基地。
 
-![五月天演唱會](https://upload.wikimedia.org/wikipedia/commons/a/aa/Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg)
+![五月天演唱會](/images/wiki/ddb5b26935ba.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0*
 
 ## 黃金世代的榮光歲月
@@ -45,7 +45,7 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 - 🔢 **音樂節數量**：台灣每年舉辦超過 100 個音樂節，從大型商業音樂節到小型獨立音樂節，涵蓋各種音樂風格與年齡層
 - 🔢 **串流音樂影響**：台灣歌手在 Spotify 亞洲華語榜單占比超過 60%，周杰倫、五月天、蔡依林等歌手的歌曲累積播放量達數十億次
 
-![台灣音樂場景](https://upload.wikimedia.org/wikipedia/commons/6/6c/TW_台灣_Taiwan_台北_Taipei_信義區_Xinyi_District_松智路_Songzhi_Road_松壽路_Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg)
+![台灣音樂場景](/images/wiki/f80cd70cdca2.jpg)
 *圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_信義區_Xinyi_District_松智路_Songzhi_Road_松壽路_Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
 
 ## 延伸閱讀
