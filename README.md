@@ -2,7 +2,7 @@
 
 **讓全世界完整認識台灣** | **Let the world truly understand Taiwan**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/taiwan-md?style=social)](https://github.com/your-username/taiwan-md)
+[![GitHub stars](https://img.shields.io/github/stars/frank890417/taiwan-md?style=social)](https://github.com/frank890417/taiwan-md)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
@@ -68,7 +68,7 @@ Taiwan.md 是一個**開源、AI-friendly** 的台灣知識庫，致力於：
 
 ```bash
 # 複製專案
-git clone https://github.com/your-username/taiwan-md.git
+git clone https://github.com/frank890417/taiwan-md.git
 cd taiwan-md
 
 # 安裝依賴
@@ -207,8 +207,8 @@ src/content/
 
 ## 📬 聯繫我們 | Contact
 
-- 🐛 **問題回報**：[GitHub Issues](https://github.com/your-username/taiwan-md/issues)
-- 💬 **討論交流**：[GitHub Discussions](https://github.com/your-username/taiwan-md/discussions)
+- 🐛 **問題回報**：[GitHub Issues](https://github.com/frank890417/taiwan-md/issues)
+- 💬 **討論交流**：[GitHub Discussions](https://github.com/frank890417/taiwan-md/discussions)
 - 📧 **Email**：taiwan.md@example.com
 
 ---
