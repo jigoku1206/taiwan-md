@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "official-websites"
+date: 2026-03-17
 tags: [resources, government, official, Taiwan.md]
-source: [Obsidian vault]
-status: 🌱 Draft (Taiwan Official Websites Directory)
+description: "Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic g"
 ---
 
 # Taiwan Official Websites Directory 🏛️

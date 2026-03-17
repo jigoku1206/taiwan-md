@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "Economy"
+date: 2026-03-17
 tags: [經濟, Hub]
-source: []
-status: 🌱 初稿（知識庫框架）
+description: "- [[_Technology Hub|科技]]：科技產業對經濟的貢獻"
 ---
 
 # 台灣經濟 💰

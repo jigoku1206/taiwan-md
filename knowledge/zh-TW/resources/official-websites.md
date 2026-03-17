@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "official-websites"
+date: 2026-03-17
 tags: [resources, government, official, Taiwan.md]
-source: [Obsidian vault]
-status: 🌱 初稿（官方網站資源大全）
+description: "台灣的官方網站不僅提供政府服務與政策資訊，更是理解台灣政治體制、文化發展、社會治理的重要窗口。這些網站反映了台灣民主政治的透明度、數位治理的進步程度，以及對文化保存與推廣的重視。對於研究台灣、了解台灣、或需要官方資訊的各界人士，這份資源大全"
 ---
 
 # 台灣官方網站資源大全 🏛️

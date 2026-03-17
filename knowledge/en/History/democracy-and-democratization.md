@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "democracy-and-democratization"
+date: 2026-03-17
 tags: [history, democratization, politics]
-source: [https://en.wikipedia.org/wiki/Taiwan_democratization]
-status: 🌱 Draft (English translation)
+description: "Taiwan's successful democratization holds significant historical and contemporary importance. It proves that Chinese soc"
 ---
 
 # Taiwan's Democracy and Democratization

@@ -2,7 +2,7 @@
 title: "Art"
 date: 2026-03-17
 tags: [藝術, Hub]
-description: "Taiwan.md knowledge base"
+description: "- [[_Culture Hub|文化]]：藝術發展的文化基礎"
 ---
 
 # 台灣藝術 🎨

@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "semiconductor-industry"
+date: 2026-03-17
 tags: [technology, semiconductor, TSMC, industry]
-source: [https://en.wikipedia.org/wiki/TSMC]
-status: 🌱 Draft (English translation)
+description: "Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar of Taiwan's economy but also plays a ke"
 ---
 
 # Taiwan's Semiconductor Industry (TSMC-Centered)

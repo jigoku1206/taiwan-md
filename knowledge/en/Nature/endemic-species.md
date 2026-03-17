@@ -1,8 +1,6 @@
 ---
 created: 2026-03-17
 tags: [nature, endemic species, biodiversity, Formosan black bear, cherry salmon]
-source: [https://en.wikipedia.org/wiki/Endemic_species_of_Taiwan, https://www.forest.gov.tw/]
-status: 🌱 Draft (English translation)
 title: Endemic Species
 description: Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and conservation importance
 date: 2026-03-17

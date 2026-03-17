@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "People"
+date: 2026-03-17
 tags: [人物, Hub]
-source: []
-status: 🌱 初稿（知識庫框架）
+description: "- [[_History Hub|歷史]]：歷史發展中的重要人物"
 ---
 
 # 台灣人物 👥

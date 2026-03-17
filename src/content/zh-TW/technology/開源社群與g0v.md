@@ -1,5 +1,5 @@
 ---
-date: 2026-03-17
+created: 2026-03-17
 tags: [Technology, 開源社群, g0v, 公民科技]
 title: 開源社群與g0v
 description: 台灣蓬勃的開源軟體社群與g0v零時政府，推動公民科技與開放政府的創新實踐

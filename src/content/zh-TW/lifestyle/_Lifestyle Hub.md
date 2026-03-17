@@ -2,7 +2,7 @@
 title: "Lifestyle"
 date: 2026-03-17
 tags: [生活, Hub]
-description: "Taiwan.md knowledge base"
+description: "- [[_Society Hub|社會]]：生活方式與社會變遷"
 ---
 
 # 台灣生活 🏠

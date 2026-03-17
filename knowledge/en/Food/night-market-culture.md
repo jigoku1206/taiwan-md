@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "night-market-culture"
+date: 2026-03-17
 tags: [food, night market, street food, culture, tourism]
-source: [https://en.wikipedia.org/wiki/Taiwan_night_market]
-status: 🌱 Draft (English translation)
+description: "Night market culture is one of Taiwan's most distinctive cultural symbols. It not only preserves the essence of traditio"
 ---
 
 # Taiwan's Night Market Culture

@@ -2,7 +2,7 @@
 title: "Music"
 date: 2026-03-17
 tags: [音樂, Hub]
-description: "Taiwan.md knowledge base"
+description: "- [[_Culture Hub|文化]]：音樂文化的多元發展"
 ---
 
 # 台灣音樂 🎵

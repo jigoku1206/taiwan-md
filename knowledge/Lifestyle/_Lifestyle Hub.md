@@ -1,8 +1,8 @@
 ---
-created: 2026-03-17
+title: "Lifestyle"
+date: 2026-03-17
 tags: [生活, Hub]
-source: []
-status: 🌱 初稿（知識庫框架）
+description: "- [[_Society Hub|社會]]：生活方式與社會變遷"
 ---
 
 # 台灣生活 🏠

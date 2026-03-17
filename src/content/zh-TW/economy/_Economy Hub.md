@@ -2,7 +2,7 @@
 title: "Economy"
 date: 2026-03-17
 tags: [經濟, Hub]
-description: "Taiwan.md knowledge base"
+description: "- [[_Technology Hub|科技]]：科技產業對經濟的貢獻"
 ---
 
 # 台灣經濟 💰

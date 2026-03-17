@@ -1,5 +1,5 @@
 ---
-date: 2026-03-17
+created: 2026-03-17
 tags: [society, human rights, gender equality, same-sex marriage, transitional justice]
 title: Human Rights and Gender Equality
 description: Taiwan's progressive journey in human rights protection and gender equality, from authoritarian human rights violations to becoming Asia's pioneer in human rights
